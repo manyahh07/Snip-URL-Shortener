@@ -10,8 +10,10 @@ A production-grade URL shortener built with **Node.js**, **Express**, and **SQLi
 ![Tests](https://img.shields.io/badge/Tests-Jest-orange?logo=jest)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
-</div>
+
 ---
+</div>
+
 
 ## Features
 
