@@ -1,6 +1,6 @@
 <div = "center">
   
-  # SNIP — URL Shortener
+# SNIP — URL Shortener
 
 A production-grade URL shortener built with **Node.js**, **Express**, and **SQLite**. Features custom slugs, link analytics, rate limiting, SSRF protection, and a clean dark-mode UI.
 
