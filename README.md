@@ -15,7 +15,7 @@ A production-grade URL shortener built with **Node.js**, **Express**, and **SQLi
 </div>
 
 
-## Features
+## Featur
 
 - **URL Shortening** — Generate 7-character nano IDs from a URL-safe alphabet
 - **Custom Slugs** — Choose your own short path (e.g. `/my-launch`)
