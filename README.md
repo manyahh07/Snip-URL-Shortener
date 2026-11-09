@@ -31,7 +31,7 @@ A production-grade URL shortener built with **Node.js**, **Express**, and **SQLi
 
 ---
 
-## Screenshots
+## 
 
 ![Main Interface](screenshots/url-shortener-1.png)
 
